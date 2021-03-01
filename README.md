@@ -93,5 +93,5 @@ Settlement Date	3/15/2017
 
 
 You can find more details at
-https://finpricing.com/lib/FxVolIntroduction.html
+https://finpricing.com/faq.html
 
