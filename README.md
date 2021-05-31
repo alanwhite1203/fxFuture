@@ -92,6 +92,10 @@ Last Cash Flow Date	3/14/2017
 Settlement Date	3/15/2017
 
 
-You can find more details at
-https://finpricing.com/faq.html
+References:
+
+https://finpricing.com/lib/EqWarrant.html
+
+https://bitbucket.org/cmrm11/fxfuture/downloads/FxFuture-21.pdf
+
 
